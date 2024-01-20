@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. candidate at BNU(https://geo.bnu.edu.cn/).
+I am a Ph.D. candidate at [Faculty of Geographical Science, Beijing Normal University](https://geo.bnu.edu.cn/).
 
 ### 📎 Homepages
 - Personal Pages: https://adamzhenglu.github.io/zhenglu/ (updated recently🔥)
