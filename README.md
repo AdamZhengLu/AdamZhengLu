@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+### 📎 Homepages
+- Personal Pages: https://adamzhenglu.github.io/zhenglu/ (updated recently🔥)
+- Google Scholar: https://scholar.google.com/citations?user=Y59A2dsAAAAJ&hl=zh-CN
+
 <!--
 **AdamZhengLu/AdamZhengLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
