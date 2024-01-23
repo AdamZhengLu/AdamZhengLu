@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=600&size=24&duration=3000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=Zheng+Lu+-+Let's+go+Adam" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=24&duration=3000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=Zheng+Lu+-+Let's+go+Adam" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
