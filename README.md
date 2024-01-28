@@ -34,6 +34,15 @@ I'm Zheng Lu (Adam), a GW modeller & GISer & RSor.
 - My academic CV 👉 [Academic Website](https://adamzhenglu.github.io/zhenglu/) (updated recently🔥)
 - Google Scholar 👉 [Google Scholar](https://scholar.google.com/citations?user=Y59A2dsAAAAJ&hl=en)
 
+<details>
+<summary>My academic analytics</summary>
 
+| No.  | Website   |
+|-----:|-----------|
+|     1| [Google Scholar](https://scholar.google.com/citations?user=Y59A2dsAAAAJ&hl=en) |
+|     2| [ResearchGate](https://www.researchgate.net/profile/Zheng-Lu-17/)              |
+|     3| [ORCid](https://orcid.org/0000-0002-0287-5826)       |
+
+</details>
 
 
