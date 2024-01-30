@@ -20,7 +20,7 @@ I'm Zheng Lu (Adam), a GW modeller & GISer & RSor.
 - 📈 My academic analytics 
 
 <details>
-- <summary><strong>Lists</strong></summary>
+<summary><strong>- Lists</strong></summary>
 
 |  ID  | Website                                                                         |
 |-----:|---------------------------------------------------------------------------------|
