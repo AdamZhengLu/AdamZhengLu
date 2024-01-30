@@ -34,7 +34,7 @@ I'm Zheng Lu (Adam), a GW modeller & GISer & RSor.
 ### Scientific researches
 <p align="center">
       <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=23&duration=5000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=Zheng+Lu+-+Cheerful+and+Hopeful" 
+            <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=23&duration=5000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&height=60&lines=Cheerful+and+Hopeful" 
                   alt="Typing SVG" /></a>
 </p>
 
