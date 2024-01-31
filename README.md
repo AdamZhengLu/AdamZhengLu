@@ -1,9 +1,5 @@
 <!-- LZ-regulating -->
 
-<div align="center">
-      <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
-</div>
-
 ### Hi there 👋
 
 I'm Zheng Lu (Adam), a GW modeller & GISer & RSor.
@@ -32,6 +28,11 @@ I'm Zheng Lu (Adam), a GW modeller & GISer & RSor.
 
 ----
 ### Scientific researches
+
+<div align="center">
+      <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+</div>
+
 <p align="center">
       <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=300&size=23&duration=5000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&height=30&lines=Cheerful+and+Hopeful" 
