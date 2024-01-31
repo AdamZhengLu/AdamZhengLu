@@ -45,7 +45,7 @@ I'm Zheng Lu (Adam), a GW modeller & GISer & RSor.
 
 <!-- [![ZhengLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamZhengLu&hide=contribs,prs)](https://github.com/AdamZhengLu/github-readme-stats) -->
 
-[![ZhengLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamZhengLu&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/AdamZhengLu/github-readme-stats)
+[![ZhengLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamZhengLu&show_icons=true&theme=radical)](https://github.com/AdamZhengLu/github-readme-stats)
 
 
 ----
