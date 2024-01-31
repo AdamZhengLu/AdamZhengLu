@@ -40,6 +40,8 @@ I'm Zheng Lu (Adam), a GW modeller & GISer & RSor.
 
 ----
 
+[![ZhengLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamZhengLu)](https://github.com/AdamZhengLu/github-readme-stats)
+
 <!-- default -->
 <!--
 **AdamZhengLu/AdamZhengLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
