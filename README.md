@@ -6,7 +6,7 @@ A GW modeller & GISer & RSor.
 
 ------------------
 
-* 🌍 I'm based in China.
+* 🌏 I'm based in China.
 * 🏢 Now I am a Ph.D. candidate at [Faculty of Geographical Science](https://geo.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/).
 * 📶 Personal homepages: [Homepage](https://adamzhenglu.github.io/Homepage/).
 * 🧠  I'm learning Machine Learning
