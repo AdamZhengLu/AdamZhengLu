@@ -1,5 +1,3 @@
-<!-- LZ-regulating -->
-
 ### Hi there 👋 My name is Zheng Lu
 
 ==================
