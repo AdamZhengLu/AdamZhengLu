@@ -63,7 +63,7 @@ A GW modeller & GISer & RSor.
 
 [![ZhengLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamZhengLu&hide=contribs,issues,prs&show_icons=true&show_owner=true)](https://github.com/AdamZhengLu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZhengLu)](https://github.com/AdamZhengLu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZhengLu&layout=compact)](https://github.com/AdamZhengLu/github-readme-stats)
 
 ----
 
