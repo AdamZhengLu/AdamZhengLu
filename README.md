@@ -59,11 +59,11 @@ A GW modeller & GISer & RSor.
 ------------------
 
 ### Stats
-<!-- theme: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
-[![ZhengLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamZhengLu&hide=contribs,issues,prs&show_icons=true&show_owner=true)](https://github.com/AdamZhengLu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZhengLu&layout=compact)](https://github.com/AdamZhengLu/github-readme-stats)
+<p align = "center">
+      <!-- theme: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+      [![ZhengLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamZhengLu&hide=contribs,issues,prs&show_icons=true&show_owner=true)](https://github.com/AdamZhengLu/github-readme-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZhengLu&layout=compact)](https://github.com/AdamZhengLu/github-readme-stats)
+</p>
 
 ----
 
