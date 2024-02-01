@@ -63,8 +63,8 @@ A GW modeller & GISer & RSor.
       <!-- theme: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
       <!--  [![ZhengLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamZhengLu&hide=contribs,issues,prs&show_icons=true&show_owner=true)](https://github.com/AdamZhengLu/github-readme-stats) -->
       <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZhengLu&layout=compact)](https://github.com/AdamZhengLu/github-readme-stats) -->
-      <img src = "https://github-readme-stats.vercel.app/api?username=AdamZhengLu&show_icons=true&theme=tokyonight&line_height=27">
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZhengLu&theme=radical">
+      <img src = "https://github-readme-stats.vercel.app/api?username=AdamZhengLu&show_icons=true&line_height=27">
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdamZhengLu&layout=compact">
 </p>
 
 ----
