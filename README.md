@@ -8,13 +8,13 @@ A GW modeller & GISer & RSor.
 
 * 🌏 I'm based in China.
 * 🏢 Now I am a Ph.D. candidate at [Faculty of Geographical Science](https://geo.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/).
-* 📶 Personal homepages: [Homepage](https://home.zhenglu.top/).
+* 📶 Personal homepages: [Homepage](https://zhenglu.top/home/).
 * 🧠  I'm learning Machine Learning
 
 ------------------
 
 ### Academic Homepages
-- 🖇️ My academic CV 👉 [Academic Website](https://research.zhenglu.top/) (updated recently🔥)
+- 🖇️ My academic CV 👉 [Academic Website](https://zhenglu.top/scholar/) (updated recently🔥)
 
 - 📈 My academic analytics 
 
