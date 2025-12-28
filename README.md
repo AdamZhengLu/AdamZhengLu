@@ -7,8 +7,10 @@ A GW modeller & GISer & RSor.
 ------------------
 
 * 🌏 I'm based in China.
+* 🏫 I work at Kunming University of Science and Technology.
 * 🏢 I graduated from [Faculty of Geographical Science](https://geo.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/).
-* 📶 Personal homepages: [Homepage](https://zhenglu.top/home/).
+* 👨‍🏫 Official homepages: [kmust.edu.cn](https://pwee.kmust.edu.cn/info/1202/1949.htm).
+* 📶 Personal homepages: [zhenglu.top](https://zhenglu.top/home/).
 * 🧠  I'm learning Machine Learning
 
 ------------------
